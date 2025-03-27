@@ -5,3 +5,4 @@ elif (age >= 4 & age < 18):
      print("$8")
 else:
     print("$5")
+    
